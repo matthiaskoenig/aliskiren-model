@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11067564.svg)](https://doi.org/10.5281/zenodo.11067564)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13758627.svg)](https://doi.org/10.5281/zenodo.13758627)
 
 # aliskiren model
 This repository provides the aliskiren physiologically based pharmacokinetics (PBPK) model.
@@ -20,11 +20,11 @@ The whole-body submodel is available from [`aliskiren_body.xml`](./models/aliski
 [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/aliskiren-model/main/models/aliskiren_body.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/aliskiren-model/main/models/aliskiren_body.xml) and equations from [`aliskiren_body.md`](./models/aliskiren_body.md).
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11067564.svg)](https://doi.org/10.5281/zenodo.11067564)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13758627.svg)](https://doi.org/10.5281/zenodo.13758627)
 
-> Kulanoglu, Yusuf Ali & König, Matthias. (2024). 
+> Kulanoglu, Y. A., & König, M. (2024).
 > *Physiologically based pharmacokinetic (PBPK) model of aliskiren.*   
-> Zenodo. [https://doi.org/10.5281/zenodo.11067564](https://doi.org/10.5281/zenodo.11067564)
+> Zenodo. [https://doi.org/10.5281/zenodo.13758627](https://doi.org/10.5281/zenodo.13758627)
 
 ## License
 
